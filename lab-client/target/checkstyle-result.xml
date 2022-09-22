@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.37">
+<file name="C:\Users\polin\OneDrive\Документы\Tutor\java\daniel\lab\lab-client\src\main\java\com\daniel\client\Client.java">
+</file>
+<file name="C:\Users\polin\OneDrive\Документы\Tutor\java\daniel\lab\lab-client\src\main\java\com\daniel\client\managers\CollectionManager.java">
+</file>
+<file name="C:\Users\polin\OneDrive\Документы\Tutor\java\daniel\lab\lab-client\src\main\java\com\daniel\client\managers\CommandManager.java">
+</file>
+<file name="C:\Users\polin\OneDrive\Документы\Tutor\java\daniel\lab\lab-client\src\main\java\com\daniel\client\managers\FileManager.java">
+</file>
+</checkstyle>

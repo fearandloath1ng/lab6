@@ -1,0 +1,4 @@
+com\daniel\client\managers\CommandManager.class
+com\daniel\client\managers\CollectionManager.class
+com\daniel\client\Client.class
+com\daniel\client\managers\FileManager.class
